@@ -4,7 +4,10 @@ date: 2024-01-10 04:01:01 +0100
 draft: false
 tags: [Work, 2024]
 ---
-You are on the demo page of the Frühling theme for the static site generator Hugo. The theme supports all standard Markdown formatting features:
+You are on the demo page of the Frühling theme for the static site generator Hugo. Sources of the theme are available here: https://github.com/romka/fruhling. Sources of this demo-site are here: https://github.com/romka/fruhling-demo. 
+
+
+The theme supports all standard Markdown formatting features:
 - lists,
 - **varied** _styling_,
 - `code blocks`,
