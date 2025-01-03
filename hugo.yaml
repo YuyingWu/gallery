@@ -1,3 +1,4 @@
+theme: fruhling
 permalinks:
   page:
     blog: /:slug
