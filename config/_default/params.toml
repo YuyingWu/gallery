@@ -1,7 +1,7 @@
 logo = "/favicon.ico"
 
-# [photomosaic]
-#   numberOfUniqueMosaics = 0
+[photomosaic]
+  numberOfUniqueMosaics = 25
 
 [lightgallery]
   licenseKey = '0000-0000-0000'
