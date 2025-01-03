@@ -1,0 +1,6 @@
+permalinks:
+  page:
+    blog: /:slug
+    note: /:slug
+    story: /story/:slug
+    gallery: /gallery/:slug

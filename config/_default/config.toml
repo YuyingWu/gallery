@@ -1,16 +1,17 @@
 baseURL = 'http://localhost:8000'
 languageCode = 'en-us'
-title = 'Frühling demo'
+title = 'Yuying Wu'
 summaryLength = 25
 theme = 'fruhling'
-defaultcontentlanguage = 'en'
+defaultcontentlanguage = 'zh'
 languagecode = "en-us"
 enableRobotsTXT = true
 googleAnalytics = "???"
 timeout = "1800s"
+remark_enabled = false
 
 [markup.goldmark.renderer]
-    unsafe= true
+  unsafe= true
 
 [params]
-    robots_txt_disallow_all = false
+  robots_txt_disallow_all = false
