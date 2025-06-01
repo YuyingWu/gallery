@@ -40,7 +40,7 @@ tags: [苏州]
 
 !["苏博-小青"](https://wyy-static.oss-cn-guangzhou.aliyuncs.com/xx/suzhou-2022/IMG_4165.JPG?x-oss-process=style/cocktail)
 
-第三天来到了寒山寺，还是源于那两句著名的诗，不过游客比香客多，后一天我们去了西园寺，感觉很不一样，后者更像寺庙，香客更多，整体的气氛也更"慢"一点，猫咪很多，还有来写生的小学生们，我更喜欢西园寺。
+第三天来到了寒山寺，还是源于那两句著名的诗，不过游客比香客多，后一天我们去了西园寺，感觉很不一样，后者更像寺庙，香客更多，整体的气氛也更“慢”一点，猫咪很多，还有来写生的小学生们，我更喜欢西园寺。
 
 !["寒山寺-塔"](https://wyy-static.oss-cn-guangzhou.aliyuncs.com/xx/suzhou-2022/IMG_4300.JPG?x-oss-process=style/cocktail)
 

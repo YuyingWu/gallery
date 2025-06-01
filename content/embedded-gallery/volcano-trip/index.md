@@ -1,7 +1,7 @@
 ---
 title: 2024年火山之旅 — "图库"内容类型示例
 date: 2024-01-03 01:01:01 +0100
-draft: false
+draft: true
 tags: [旅行, 火山, 2024]
 summary_photos_count: 5
 ---
