@@ -1,15 +1,14 @@
 ---
-title: Поездка не Гьеди Прайм в январе 2024
+title: Trip to Giedi Prime in January 2024
 date: 2024-01-01 01:01:01 +0100
 draft: false
-tags: [Путешествия, Гьеди Прайм, Космос, 2024]
+tags: [Travel, Giedi Prime, Space, 2024]
 summary_photos_count: 10
 ---
-
-OIG.0JrjIbR9MQxnuib8TDwh.jpg;Потрясающий вид
-OIG.5fRTDPx0.IXlqCX4m6Qs.jpg;Дюны
-OIG.6ReqxRfU_.vxRqj7hd1R.jpg;Читаю книжку
-OIG.8xJieTa4l80jL7S8CO0..jpg;Наслаждаюсь солнцем
+OIG.0JrjIbR9MQxnuib8TDwh.jpg;Amazing view
+OIG.5fRTDPx0.IXlqCX4m6Qs.jpg;Dunes
+OIG.6ReqxRfU_.vxRqj7hd1R.jpg;Reading a book on a coast
+OIG.8xJieTa4l80jL7S8CO0..jpg;Enjoying the Sun
 OIG._3uB5TqBf5DAmEKZLfe2.jpg;
 OIG.c_8pQMG7Xia3yiz2EE.y.jpg;
 OIG.CiPR52TI4XTD1nUgV.c_.jpg;

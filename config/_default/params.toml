@@ -2,9 +2,11 @@ logo = "/favicon.ico"
 
 [photomosaic]
     numberOfUniqueMosaics = 25
+    enabled = false
 
 [lightgallery]
     licenseKey = '0000-0000-0000'
 
 [fruhling]
     indexPageContentTypes = ["blog", "gallery", "note", "story"]
+    summaryLength = 150

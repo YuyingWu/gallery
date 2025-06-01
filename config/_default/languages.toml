@@ -1,48 +1,48 @@
+[zh]
+    title = 'Frühling 演示'
+    weight = 1
 [en]
     title = 'Frühling demo'
-    weight = 1
-[ru]
-    title = 'Frühling демо'
     weight = 2
+
+[[zh.menu.main]]
+    name = "旅行"
+    weight = 100
+    identifier = "blog-travel"
+    url = "/tags/travel"
+[[zh.menu.main]]
+    name = "工作"
+    weight = 200
+    identifier = "blog-work"
+    url = "/tags/work"
+[[zh.menu.main]]
+    name = "图库"
+    weight = 300
+    identifier = "gallery"
+    url = "/gallery"
+[[zh.menu.main]]
+    name = "en"
+    identifier = "en"
+    weight = 1000
+    url = "/en"
 
 [[en.menu.main]]
     name = "Travel"
     weight = 100
     identifier = "blog-travel"
-    url = "/tags/travel"
+    url = "/en/tags/travel"
 [[en.menu.main]]
     name = "Work"
     weight = 200
     identifier = "blog-work"
-    url = "/tags/work"
+    url = "/en/tags/work"
 [[en.menu.main]]
     name = "Photogalleries"
     weight = 300
     identifier = "gallery"
-    url = "/gallery"
+    url = "/en/gallery"
 [[en.menu.main]]
-    name = "ru"
-    identifier = "ru"
-    weight = 1000
-    url = "/ru"
-
-[[ru.menu.main]]
-    name = "Путешествия"
-    weight = 100
-    identifier = "blog-travel"
-    url = "/ru/tags/путешествия/"
-[[ru.menu.main]]
-    name = "Работа"
-    weight = 200
-    identifier = "blog-work"
-    url = "/ru/tags/работа/"
-[[ru.menu.main]]
-    name = "Фотогалереи"
-    identifier = "gallery"
-    weight = 300
-    url = "/ru/gallery"
-[[ru.menu.main]]
-    name = "en"
-    identifier = "en"
+    name = "中文"
+    identifier = "zh"
     weight = 1000
     url = "/"
