@@ -1,0 +1,17 @@
+{{- $pages := where .Site.RegularPages "Kind" "page" -}}
+{{- $filteredPages := where $pages "Layout" "ne" "search" -}}
+{
+    "version": "1.0",
+    "items": [
+    {{- range $index, $page := $filteredPages -}}
+        {{- if $index -}},{{- end -}}
+        {
+            "url": "{{ $page.RelPermalink }}",
+            "title": {{ $page.Title | jsonify }},
+            "summary": {{ $page.Summary | plainify | jsonify }},
+            "content": {{ $page.Plain | jsonify }},
+            "date": {{ $page.Date.Format "2006-01-02" | jsonify }}
+        }
+    {{- end -}}
+    ]
+} 
