@@ -1,12 +1,12 @@
 baseURL = 'http://localhost:8000'
 languageCode = 'zh-cn'
-title = 'Frühling 演示'
+title = 'Yuying Wu'
 summaryLength = 25
 theme = 'fruhling'
 defaultcontentlanguage = 'zh'
 languagecode = "zh-cn"
 enableRobotsTXT = true
-googleAnalytics = "???"
+googleAnalytics = "UA-74424222-4"
 timeout = "1800s"
 
 [markup.goldmark.renderer]

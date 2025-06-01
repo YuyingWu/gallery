@@ -1,8 +1,8 @@
 [zh]
-    title = 'Frühling 演示'
+    title = 'Yuying Wu'
     weight = 1
 [en]
-    title = 'Frühling demo'
+    title = 'Yuying Wu'
     weight = 2
 
 [[zh.menu.main]]
@@ -20,11 +20,12 @@
     weight = 300
     identifier = "gallery"
     url = "/gallery"
-[[zh.menu.main]]
-    name = "en"
-    identifier = "en"
-    weight = 1000
-    url = "/en"
+# 暂时隐藏英文切换选项
+#[[zh.menu.main]]
+#    name = "en"
+#    identifier = "en"
+#    weight = 1000
+#    url = "/en"
 
 [[en.menu.main]]
     name = "Travel"
