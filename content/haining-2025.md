@@ -4,6 +4,7 @@ date: 2025-05-18 20:02:02 +0800
 draft: false
 type: gallery
 tags: [旅行, 海宁, 2025]
+summary_photos_count: 9
 ---
 
 ![古镇街景](https://wyy-static.oss-cn-guangzhou.aliyuncs.com/gallery/haining/%E5%8F%A4%E9%95%87%E8%A1%97%E6%99%AF2.jpg?x-oss-process=style/cocktail)

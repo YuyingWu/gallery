@@ -1,4 +1,5 @@
 logo = "/favicon.ico"
+remark_enabled = false
 
 [photomosaic]
     numberOfUniqueMosaics = 25
@@ -10,3 +11,4 @@ logo = "/favicon.ico"
 [fruhling]
     indexPageContentTypes = ["blog", "gallery", "note", "story"]
     summaryLength = 150
+    
